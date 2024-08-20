@@ -1,7 +1,6 @@
 my-online-store
 ==========================
 
-Overview
 This project is a web application for an online store. It allows users to browse through a variety of products and add them to their shopping cart. Users can also select shipping options before proceeding to checkout.
 
 ===========================
@@ -28,8 +27,7 @@ Install dependencies by running npm install.
 Start the development server by running npm start.
 Open your web browser and visit http://localhost:3000 to view the application.
 Contributors
-John Doe (@johndoe): Frontend development
-Jane Smith (@janesmith): Backend development
+alourens365@gmail.com
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
